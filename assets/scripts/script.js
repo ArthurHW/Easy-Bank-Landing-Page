@@ -1,3 +1,4 @@
+// Making Header gain box shadow on scroll
 const header = document.querySelector('#header')
 const navHeight = header.offsetHeight
 
